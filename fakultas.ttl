@@ -1,0 +1,77 @@
+@prefix su: <http://www.w3.org/2006/vcard/ns#>.
+@prefix fk: <http://www.fakultas.com/>.
+
+su:fakultas1	fk:nama		"Fakultas Farmasi";
+        	fk:prodi	"Farmasi";
+		fk:alamat	"Jl. Tri Dharma, Padang Bulan, Kec. Medan Baru, Kota Medan, Sumatera Utara 20155";
+        	fk:gambar	"https://www.usu.ac.id/images/Fakultas/Fak_NewPhoto/Fakultas_Farmasi.jpghttps://www.usu.ac.id/images/Fakultas/Fak_NewPhoto/Fakultas_Farmasi.jpg".
+
+su:fakultas2	fk:nama		"Fakultas Hukum";
+        	fk:prodi	"Ilmu Hukum";
+		fk:alamat	"Jl. Universitas No.19, Padang Bulan, Kec. Medan Baru, Kota Medan, Sumatera Utara 20155";
+        	fk:gambar	"https://www.usu.ac.id/images/Fakultas/Fak_NewPhoto/Fakultas_Hukum.jpg".
+
+su:fakultas3	fk:nama		"Fakultas Ilmu Budaya";
+        	fk:prodi	"Sejarah, Pariwisata, Sastra Indonesia, Sastra Inggris, Sastra Arab, Sastra dan Bahasa Daerah, Ilmu Perpustakaan, Musik, Sastra dan Bahasa Asing";
+		fk:alamat	"Jl. Universitas No.19, Padang Bulan, Kec. Medan Baru, Kota Medan, Sumatera Utara 2015";
+        	fk:gambar	"https://www.usu.ac.id/id/fakultas-ilmubudaya.html".
+
+su:fakultas4	fk:nama		"Fakultas Ilmu Komputer dan Teknologi Informasi";
+        	fk:prodi	"Ilmu Komputer, Tekologi Informasi";
+		fk:alamat	"Jl. Universitas, Padang Bulan, Kec. Medan Baru, Kota Medan, Sumatera Utara 20222";
+        	fk:gambar	"https://www.usu.ac.id/images/Fakultas/Fak_NewPhoto/FASILKOMTI.jpg".
+
+su:fakultas5	fk:nama		"Fakultas Ilmu Sosial dan Politik";
+        	fk:prodi	"Sosiologi, Perpajakan, Ilmu Komunikasi, Ilmu Administrasi, Bisnis, Kesejahteraan Sosial, Ilmu Politik";
+		fk:alamat	"Jl. Dr. A. Sofian No.1A, Padang Bulan, Kec. Medan Baru, Kota Medan, Sumatera Utara 20222";
+        	fk:gambar	"https://www.usu.ac.id/images/Fakultas/Fak_NewPhoto/Fakultas_ISIP.jpg".
+
+su:fakultas6	fk:nama		"Fakultas Kedokteran";
+        	fk:prodi	"Pendidikan Dokter";
+		fk:alamat	"Jl. Dr. Mansyur No.5, Padang Bulan, Kec. Medan Baru, Kota Medan, Sumatera Utara 20155";
+        	fk:gambar	"https://www.usu.ac.id/images/Fakultas/Fak_NewPhoto/Fakultas_Kedokteran.jpg".
+
+su:fakultas7	fk:nama		"Fakultas Kedokteran Gigi";
+        	fk:prodi	"Pendidikan Dokter Gigi";
+		fk:alamat	"Jl. Universitas No.2, Padang Bulan, Kec. Medan Baru, Kota Medan, Sumatera Utara 20155";
+        	fk:gambar	"https://www.usu.ac.id/images/Fakultas/Fak_NewPhoto/Fakultas_KedokteranGigi.jpg".
+
+su:fakultas8	fk:nama		"Fakultas Keperawatan";
+        	fk:prodi	"Ilmu Keperawatan";
+		fk:alamat	"Jl. Prof. T. Maas No.3, Kampus, Padang Bulan, Kec. Medan Baru, Kota Medan, Sumatera Utara 20155";
+        	fk:gambar	"https://www.usu.ac.id/images/Fakultas/Fak_NewPhoto/Fakultas_Keperawatan.jpg".
+
+su:fakultas9	fk:nama		"Fakultas Kesehatan Masyarakat";
+        	fk:prodi	"Kesehatan Masyarakat";
+		fk:alamat	"Jl. Universitas";
+        	fk:gambar	"https://www.usu.ac.id/images/Fakultas/Fak_NewPhoto/Fakultas_KesehatanMasyarakat.jpg".
+
+su:fakultas10	fk:nama		"Fakultas Pertanian";
+        	fk:prodi	"Agribisnis, Ilmu dan Teknologi Pangan, Teknik Pertanian, Peternakan";
+		fk:alamat	"Jl. Universitas No.32, Padang Bulan, Kec. Medan Baru, Kota Medan, Sumatera Utara 20222";
+        	fk:gambar	"https://www.usu.ac.id/images/Fakultas/Fak_NewPhoto/Fakultas_Pertanian.jpg".
+
+su:fakultas11	fk:nama		"Fakultas Psikologi";
+        	fk:prodi	"Psikologi";
+		fk:alamat	"Jl. Dr. Mansyur No.7, Padang Bulan, Kec. Medan Baru, Kota Medan, Sumatera Utara 20155";
+        	fk:gambar	"https://www.usu.ac.id/images/Fakultas/Fak_NewPhoto/Fakultas_Psikologi.jpg".
+
+su:fakultas12	fk:nama		"Fakultas Teknik";
+        	fk:prodi	"Teknik Lingkungan, Teknik Mesin, Teknik Elektro, Teknik Industri, Teknik Sipil, Teknik Kimia, Arsitektur";
+		fk:alamat	"Jl. Almamater";
+        	fk:gambar	"https://www.usu.ac.id/images/Fakultas/Fak_NewPhoto/Fakultas_Teknik.jpg".
+
+su:fakultas13	fk:nama		"Fakultas Matematika dan Ilmu Pengetahuan Alam";
+        	fk:prodi	"Teknik Informatika, Fisika, Kimia, Statistika";
+		fk:alamat	"Jl. Almamater, Padang Bulan, Kec. Medan Baru, Kota Medan, Sumatera Utara 20155";
+        	fk:gambar	"https://www.usu.ac.id/images/Fakultas/Fak_NewPhoto/FMIPA.jpg".
+
+su:fakultas14	fk:nama		"Fakultas Ekonomi dan Bisnis";
+        	fk:prodi	"Ilmu Ekonomi, Akuntansi, Manajemen";
+		fk:alamat	"JL Dr. Sofyan, No. 1, Padang Bulan, Kec. Medan Baru, Kota Medan, Sumatera Utara 20222";
+        	fk:gambar	"https://www.usu.ac.id/images/Fakultas/Fak_NewPhoto/Fakultas_EkonomidanBisnis.jpg".
+
+fk:fakultas15	fk:nama		"Fakultas Kehutanan";
+        	fk:prodi	"Kehutanan";
+		fk:alamat	"Padang Bulan, Kec. Medan Baru, Kota Medan, Sumatera Utara 20155";
+        	fk:gambar	"https://www.usu.ac.id/images/Fakultas/Fak_NewPhoto/Fakultas_Kehutanan.jpg".
